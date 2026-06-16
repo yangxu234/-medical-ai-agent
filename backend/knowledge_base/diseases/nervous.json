@@ -1,0 +1,23 @@
+[
+  {
+    "name": "紧张性头痛",
+    "description": "最常见的头痛类型，与紧张、压力有关",
+    "keywords": ["头痛", "紧张", "压力", "偏头痛"],
+    "department": "神经内科",
+    "checkups": ["头颅CT", "血压测量"]
+  },
+  {
+    "name": "偏头痛",
+    "description": "一种原发性头痛，常为单侧搏动性疼痛",
+    "keywords": ["偏头痛", "搏动性", "恶心", "畏光"],
+    "department": "神经内科",
+    "checkups": ["头颅MRI", "脑电图"]
+  },
+  {
+    "name": "眩晕症",
+    "description": "以眩晕为主要症状的疾病",
+    "keywords": ["眩晕", "头晕", "天旋地转", "恶心"],
+    "department": "神经内科或耳鼻喉科",
+    "checkups": ["头颅CT/MRI", "前庭功能检查"]
+  }
+]

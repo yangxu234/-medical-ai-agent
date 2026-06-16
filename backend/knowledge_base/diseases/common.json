@@ -1,0 +1,72 @@
+[
+  {
+    "name": "普通感冒",
+    "description": "由病毒引起的上呼吸道感染，表现为鼻塞、流涕、打喷嚏、咽痛等",
+    "keywords": ["感冒", "鼻塞", "流涕", "打喷嚏", "咽痛"],
+    "department": "呼吸内科或全科",
+    "prevention": "注意保暖，勤洗手，避免接触感冒患者"
+  },
+  {
+    "name": "流行性感冒",
+    "description": "由流感病毒引起的急性呼吸道传染病，症状较重",
+    "keywords": ["流感", "高热", "全身酸痛", "乏力"],
+    "department": "呼吸内科",
+    "prevention": "接种流感疫苗，避免人群密集场所"
+  },
+  {
+    "name": "支气管炎",
+    "description": "支气管黏膜的炎症，表现为咳嗽、咳痰",
+    "keywords": ["支气管炎", "咳嗽", "咳痰", "气促"],
+    "department": "呼吸内科",
+    "prevention": "戒烟，避免空气污染"
+  },
+  {
+    "name": "肺炎",
+    "description": "肺部感染性疾病，可由细菌、病毒等引起",
+    "keywords": ["肺炎", "发热", "咳嗽", "胸痛"],
+    "department": "呼吸内科",
+    "prevention": "接种肺炎疫苗，增强免疫力"
+  },
+  {
+    "name": "高血压",
+    "description": "血压持续升高的慢性疾病",
+    "keywords": ["高血压", "血压高", "头疼", "头晕"],
+    "department": "心内科",
+    "prevention": "低盐饮食，适量运动，控制体重"
+  },
+  {
+    "name": "冠心病",
+    "description": "冠状动脉粥样硬化性心脏病",
+    "keywords": ["冠心病", "心绞痛", "胸闷", "心悸"],
+    "department": "心内科",
+    "prevention": "戒烟限酒，控制血脂，适量运动"
+  },
+  {
+    "name": "胃炎",
+    "description": "胃黏膜的炎症性疾病",
+    "keywords": ["胃炎", "胃痛", "恶心", "呕吐"],
+    "department": "消化内科",
+    "prevention": "规律饮食，避免辛辣刺激食物"
+  },
+  {
+    "name": "消化性溃疡",
+    "description": "胃或十二指肠黏膜的溃疡",
+    "keywords": ["溃疡", "胃痛", "反酸", "嗳气"],
+    "department": "消化内科",
+    "prevention": "规律饮食，避免过度劳累"
+  },
+  {
+    "name": "糖尿病",
+    "description": "以高血糖为特征的代谢性疾病",
+    "keywords": ["糖尿病", "血糖高", "多饮", "多尿"],
+    "department": "内分泌科",
+    "prevention": "控制饮食，适量运动，定期检查血糖"
+  },
+  {
+    "name": "甲状腺功能亢进",
+    "description": "甲状腺激素分泌过多引起的疾病",
+    "keywords": ["甲亢", "心悸", "手抖", "消瘦"],
+    "department": "内分泌科",
+    "prevention": "定期检查甲状腺功能"
+  }
+]
